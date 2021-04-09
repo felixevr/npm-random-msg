@@ -1,0 +1,23 @@
+{
+  "name": "felixevr-random-messages",
+  "version": "1.0.1",
+  "description": "Que hacccccce\r Como lo hace\r Instrucciones para su instalación\r Invitación para colaborar",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "random-msg": "bin/global.js"
+  },
+  "preferGlobal": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felixevr/npm-random-msg.git"
+  },
+  "bugs": {
+    "url": "https://github.com/felixevr/npm-random-msg/issues"
+  },
+  "homepage": "https://github.com/felixevr/npm-random-msg#readme"
+}
